@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evin</h1>
 <h3 align="center">A Computer Science Undergraduate</h3>
 
-- 🌱 I’m currently learning **MERN Stack, Flutter, Machine Learning**
+- 🌱 I’m currently learning **MERN Stack, Machine Learning, and Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
